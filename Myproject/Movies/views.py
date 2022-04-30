@@ -6,3 +6,6 @@ def Movies (request):
 
 def Movies2 (request):
     return render(request, 'home.html')
+
+def Movies3 (request):
+    return render(request, 'home.html')
